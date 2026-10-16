@@ -1,0 +1,41 @@
+[theme]
+base = "light"
+primaryColor = "#007F78"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F1F6FB"
+textColor = "#102F4C"
+font = "sans serif"
+borderColor = "#557996"
+dataframeBorderColor = "#9CB6CA"
+dataframeHeaderBackgroundColor = "#103E65"
+dataframeHeaderTextColor = "#FFFFFF"
+showWidgetBorder = true
+
+[theme.sidebar]
+backgroundColor = "#78AAD5"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#102F4C"
+borderColor = "#466C8B"
+showWidgetBorder = true
+
+# La página usa fondos claros propios; conservar su contraste en ambos temas.
+[theme.dark]
+primaryColor = "#007F78"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F1F6FB"
+textColor = "#102F4C"
+borderColor = "#557996"
+dataframeBorderColor = "#9CB6CA"
+dataframeHeaderBackgroundColor = "#103E65"
+dataframeHeaderTextColor = "#FFFFFF"
+showWidgetBorder = true
+
+[theme.dark.sidebar]
+backgroundColor = "#78AAD5"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#102F4C"
+borderColor = "#466C8B"
+showWidgetBorder = true
+
+[browser]
+gatherUsageStats = false
