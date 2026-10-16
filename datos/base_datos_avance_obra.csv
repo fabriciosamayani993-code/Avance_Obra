@@ -1,0 +1,241 @@
+﻿semana,codigo_partida,partida,especialidad,encargado,peso_partida,avance_plan_semanal,avance_real_semanal
+1,EST-01,Excavación masiva,Estructuras,Ing. Carlos,4.0,2.0,2.0
+2,EST-01,Excavación masiva,Estructuras,Ing. Carlos,4.0,2.0,2.0
+3,EST-01,Excavación masiva,Estructuras,Ing. Carlos,4.0,0.0,0.0
+4,EST-01,Excavación masiva,Estructuras,Ing. Carlos,4.0,0.0,0.0
+5,EST-01,Excavación masiva,Estructuras,Ing. Carlos,4.0,0.0,0.0
+6,EST-01,Excavación masiva,Estructuras,Ing. Carlos,4.0,0.0,0.0
+7,EST-01,Excavación masiva,Estructuras,Ing. Carlos,4.0,0.0,0.0
+8,EST-01,Excavación masiva,Estructuras,Ing. Carlos,4.0,0.0,0.0
+9,EST-01,Excavación masiva,Estructuras,Ing. Carlos,4.0,0.0,0.0
+10,EST-01,Excavación masiva,Estructuras,Ing. Carlos,4.0,0.0,0.0
+11,EST-01,Excavación masiva,Estructuras,Ing. Carlos,4.0,0.0,0.0
+12,EST-01,Excavación masiva,Estructuras,Ing. Carlos,4.0,0.0,0.0
+1,EST-02,Cimentaciones,Estructuras,Ing. Carlos,7.0,0.0,0.0
+2,EST-02,Cimentaciones,Estructuras,Ing. Carlos,7.0,2.2711,1.5898
+3,EST-02,Cimentaciones,Estructuras,Ing. Carlos,7.0,2.4578,2.4018
+4,EST-02,Cimentaciones,Estructuras,Ing. Carlos,7.0,2.2711,2.3271
+5,EST-02,Cimentaciones,Estructuras,Ing. Carlos,7.0,0.0,0.6813
+6,EST-02,Cimentaciones,Estructuras,Ing. Carlos,7.0,0.0,0.0
+7,EST-02,Cimentaciones,Estructuras,Ing. Carlos,7.0,0.0,0.0
+8,EST-02,Cimentaciones,Estructuras,Ing. Carlos,7.0,0.0,0.0
+9,EST-02,Cimentaciones,Estructuras,Ing. Carlos,7.0,0.0,0.0
+10,EST-02,Cimentaciones,Estructuras,Ing. Carlos,7.0,0.0,0.0
+11,EST-02,Cimentaciones,Estructuras,Ing. Carlos,7.0,0.0,0.0
+12,EST-02,Cimentaciones,Estructuras,Ing. Carlos,7.0,0.0,0.0
+1,EST-03,Columnas de concreto,Estructuras,Ing. Ana,8.0,0.0,0.0
+2,EST-03,Columnas de concreto,Estructuras,Ing. Ana,8.0,0.0,0.475
+3,EST-03,Columnas de concreto,Estructuras,Ing. Ana,8.0,1.8998,1.9499
+4,EST-03,Columnas de concreto,Estructuras,Ing. Ana,8.0,2.1002,2.1002
+5,EST-03,Columnas de concreto,Estructuras,Ing. Ana,8.0,2.1002,2.0501
+6,EST-03,Columnas de concreto,Estructuras,Ing. Ana,8.0,1.8998,1.4249
+7,EST-03,Columnas de concreto,Estructuras,Ing. Ana,8.0,0.0,0.0
+8,EST-03,Columnas de concreto,Estructuras,Ing. Ana,8.0,0.0,0.0
+9,EST-03,Columnas de concreto,Estructuras,Ing. Ana,8.0,0.0,0.0
+10,EST-03,Columnas de concreto,Estructuras,Ing. Ana,8.0,0.0,0.0
+11,EST-03,Columnas de concreto,Estructuras,Ing. Ana,8.0,0.0,0.0
+12,EST-03,Columnas de concreto,Estructuras,Ing. Ana,8.0,0.0,0.0
+1,EST-04,Vigas de concreto,Estructuras,Ing. Ana,6.0,0.0,0.0
+2,EST-04,Vigas de concreto,Estructuras,Ing. Ana,6.0,0.0,0.0
+3,EST-04,Vigas de concreto,Estructuras,Ing. Ana,6.0,0.0,0.0
+4,EST-04,Vigas de concreto,Estructuras,Ing. Ana,6.0,1.4249,1.4249
+5,EST-04,Vigas de concreto,Estructuras,Ing. Ana,6.0,1.5751,1.5751
+6,EST-04,Vigas de concreto,Estructuras,Ing. Ana,6.0,1.5751,1.5751
+7,EST-04,Vigas de concreto,Estructuras,Ing. Ana,6.0,1.4249,1.4249
+8,EST-04,Vigas de concreto,Estructuras,Ing. Ana,6.0,0.0,0.0
+9,EST-04,Vigas de concreto,Estructuras,Ing. Ana,6.0,0.0,0.0
+10,EST-04,Vigas de concreto,Estructuras,Ing. Ana,6.0,0.0,0.0
+11,EST-04,Vigas de concreto,Estructuras,Ing. Ana,6.0,0.0,0.0
+12,EST-04,Vigas de concreto,Estructuras,Ing. Ana,6.0,0.0,0.0
+1,EST-05,Losas aligeradas,Estructuras,Ing. Ana,8.0,0.0,0.0
+2,EST-05,Losas aligeradas,Estructuras,Ing. Ana,8.0,0.0,0.0
+3,EST-05,Losas aligeradas,Estructuras,Ing. Ana,8.0,0.0,0.0
+4,EST-05,Losas aligeradas,Estructuras,Ing. Ana,8.0,0.0,0.0
+5,EST-05,Losas aligeradas,Estructuras,Ing. Ana,8.0,1.8998,1.3299
+6,EST-05,Losas aligeradas,Estructuras,Ing. Ana,8.0,2.1002,2.0401
+7,EST-05,Losas aligeradas,Estructuras,Ing. Ana,8.0,2.1002,2.1002
+8,EST-05,Losas aligeradas,Estructuras,Ing. Ana,8.0,1.8998,1.9599
+9,EST-05,Losas aligeradas,Estructuras,Ing. Ana,8.0,0.0,0.5699
+10,EST-05,Losas aligeradas,Estructuras,Ing. Ana,8.0,0.0,0.0
+11,EST-05,Losas aligeradas,Estructuras,Ing. Ana,8.0,0.0,0.0
+12,EST-05,Losas aligeradas,Estructuras,Ing. Ana,8.0,0.0,0.0
+1,ARQ-01,Muros de albañilería,Arquitectura,Arq. Luis,5.0,0.0,0.0
+2,ARQ-01,Muros de albañilería,Arquitectura,Arq. Luis,5.0,0.0,0.0
+3,ARQ-01,Muros de albañilería,Arquitectura,Arq. Luis,5.0,0.0,0.0
+4,ARQ-01,Muros de albañilería,Arquitectura,Arq. Luis,5.0,0.0,0.2968
+5,ARQ-01,Muros de albañilería,Arquitectura,Arq. Luis,5.0,1.1874,1.2187
+6,ARQ-01,Muros de albañilería,Arquitectura,Arq. Luis,5.0,1.3126,1.3126
+7,ARQ-01,Muros de albañilería,Arquitectura,Arq. Luis,5.0,1.3126,1.2813
+8,ARQ-01,Muros de albañilería,Arquitectura,Arq. Luis,5.0,1.1874,0.8905
+9,ARQ-01,Muros de albañilería,Arquitectura,Arq. Luis,5.0,0.0,0.0
+10,ARQ-01,Muros de albañilería,Arquitectura,Arq. Luis,5.0,0.0,0.0
+11,ARQ-01,Muros de albañilería,Arquitectura,Arq. Luis,5.0,0.0,0.0
+12,ARQ-01,Muros de albañilería,Arquitectura,Arq. Luis,5.0,0.0,0.0
+1,ARQ-02,Tarrajeo interior,Arquitectura,Arq. Luis,5.0,0.0,0.0
+2,ARQ-02,Tarrajeo interior,Arquitectura,Arq. Luis,5.0,0.0,0.0
+3,ARQ-02,Tarrajeo interior,Arquitectura,Arq. Luis,5.0,0.0,0.0
+4,ARQ-02,Tarrajeo interior,Arquitectura,Arq. Luis,5.0,0.0,0.0
+5,ARQ-02,Tarrajeo interior,Arquitectura,Arq. Luis,5.0,0.0,0.0
+6,ARQ-02,Tarrajeo interior,Arquitectura,Arq. Luis,5.0,0.0,0.0
+7,ARQ-02,Tarrajeo interior,Arquitectura,Arq. Luis,5.0,1.1874,1.1874
+8,ARQ-02,Tarrajeo interior,Arquitectura,Arq. Luis,5.0,1.3126,1.3126
+9,ARQ-02,Tarrajeo interior,Arquitectura,Arq. Luis,5.0,1.3126,1.3126
+10,ARQ-02,Tarrajeo interior,Arquitectura,Arq. Luis,5.0,1.1874,1.1874
+11,ARQ-02,Tarrajeo interior,Arquitectura,Arq. Luis,5.0,0.0,0.0
+12,ARQ-02,Tarrajeo interior,Arquitectura,Arq. Luis,5.0,0.0,0.0
+1,ARQ-03,Tarrajeo exterior,Arquitectura,Arq. Luis,4.0,0.0,0.0
+2,ARQ-03,Tarrajeo exterior,Arquitectura,Arq. Luis,4.0,0.0,0.0
+3,ARQ-03,Tarrajeo exterior,Arquitectura,Arq. Luis,4.0,0.0,0.0
+4,ARQ-03,Tarrajeo exterior,Arquitectura,Arq. Luis,4.0,0.0,0.0
+5,ARQ-03,Tarrajeo exterior,Arquitectura,Arq. Luis,4.0,0.0,0.0
+6,ARQ-03,Tarrajeo exterior,Arquitectura,Arq. Luis,4.0,0.0,0.0
+7,ARQ-03,Tarrajeo exterior,Arquitectura,Arq. Luis,4.0,0.0,0.0
+8,ARQ-03,Tarrajeo exterior,Arquitectura,Arq. Luis,4.0,0.9499,0.6649
+9,ARQ-03,Tarrajeo exterior,Arquitectura,Arq. Luis,4.0,1.0501,1.02
+10,ARQ-03,Tarrajeo exterior,Arquitectura,Arq. Luis,4.0,1.0501,1.0501
+11,ARQ-03,Tarrajeo exterior,Arquitectura,Arq. Luis,4.0,0.9499,0.98
+12,ARQ-03,Tarrajeo exterior,Arquitectura,Arq. Luis,4.0,0.0,0.285
+1,ARQ-04,Pisos y revestimientos,Arquitectura,Arq. Luis,6.0,0.0,0.0
+2,ARQ-04,Pisos y revestimientos,Arquitectura,Arq. Luis,6.0,0.0,0.0
+3,ARQ-04,Pisos y revestimientos,Arquitectura,Arq. Luis,6.0,0.0,0.0
+4,ARQ-04,Pisos y revestimientos,Arquitectura,Arq. Luis,6.0,0.0,0.0
+5,ARQ-04,Pisos y revestimientos,Arquitectura,Arq. Luis,6.0,0.0,0.0
+6,ARQ-04,Pisos y revestimientos,Arquitectura,Arq. Luis,6.0,0.0,0.0
+7,ARQ-04,Pisos y revestimientos,Arquitectura,Arq. Luis,6.0,0.0,0.0
+8,ARQ-04,Pisos y revestimientos,Arquitectura,Arq. Luis,6.0,0.0,0.3562
+9,ARQ-04,Pisos y revestimientos,Arquitectura,Arq. Luis,6.0,1.4249,1.4624
+10,ARQ-04,Pisos y revestimientos,Arquitectura,Arq. Luis,6.0,1.5751,1.5751
+11,ARQ-04,Pisos y revestimientos,Arquitectura,Arq. Luis,6.0,1.5751,1.5376
+12,ARQ-04,Pisos y revestimientos,Arquitectura,Arq. Luis,6.0,1.4249,1.0687
+1,SAN-01,Red de agua fría,Instalaciones Sanitarias,Ing. Rosa,4.0,0.0,0.0
+2,SAN-01,Red de agua fría,Instalaciones Sanitarias,Ing. Rosa,4.0,0.0,0.0
+3,SAN-01,Red de agua fría,Instalaciones Sanitarias,Ing. Rosa,4.0,0.0,0.0
+4,SAN-01,Red de agua fría,Instalaciones Sanitarias,Ing. Rosa,4.0,0.0,0.0
+5,SAN-01,Red de agua fría,Instalaciones Sanitarias,Ing. Rosa,4.0,0.9499,0.9499
+6,SAN-01,Red de agua fría,Instalaciones Sanitarias,Ing. Rosa,4.0,1.0501,1.0501
+7,SAN-01,Red de agua fría,Instalaciones Sanitarias,Ing. Rosa,4.0,1.0501,1.0501
+8,SAN-01,Red de agua fría,Instalaciones Sanitarias,Ing. Rosa,4.0,0.9499,0.9499
+9,SAN-01,Red de agua fría,Instalaciones Sanitarias,Ing. Rosa,4.0,0.0,0.0
+10,SAN-01,Red de agua fría,Instalaciones Sanitarias,Ing. Rosa,4.0,0.0,0.0
+11,SAN-01,Red de agua fría,Instalaciones Sanitarias,Ing. Rosa,4.0,0.0,0.0
+12,SAN-01,Red de agua fría,Instalaciones Sanitarias,Ing. Rosa,4.0,0.0,0.0
+1,SAN-02,Red de desagüe,Instalaciones Sanitarias,Ing. Rosa,5.0,0.0,0.0
+2,SAN-02,Red de desagüe,Instalaciones Sanitarias,Ing. Rosa,5.0,0.0,0.0
+3,SAN-02,Red de desagüe,Instalaciones Sanitarias,Ing. Rosa,5.0,0.0,0.0
+4,SAN-02,Red de desagüe,Instalaciones Sanitarias,Ing. Rosa,5.0,0.0,0.0
+5,SAN-02,Red de desagüe,Instalaciones Sanitarias,Ing. Rosa,5.0,0.9316,0.6521
+6,SAN-02,Red de desagüe,Instalaciones Sanitarias,Ing. Rosa,5.0,1.0332,1.0027
+7,SAN-02,Red de desagüe,Instalaciones Sanitarias,Ing. Rosa,5.0,1.0704,1.0592
+8,SAN-02,Red de desagüe,Instalaciones Sanitarias,Ing. Rosa,5.0,1.0332,1.0443
+9,SAN-02,Red de desagüe,Instalaciones Sanitarias,Ing. Rosa,5.0,0.9316,0.9621
+10,SAN-02,Red de desagüe,Instalaciones Sanitarias,Ing. Rosa,5.0,0.0,0.2795
+11,SAN-02,Red de desagüe,Instalaciones Sanitarias,Ing. Rosa,5.0,0.0,0.0
+12,SAN-02,Red de desagüe,Instalaciones Sanitarias,Ing. Rosa,5.0,0.0,0.0
+1,SAN-03,Aparatos sanitarios,Instalaciones Sanitarias,Ing. Rosa,3.0,0.0,0.0
+2,SAN-03,Aparatos sanitarios,Instalaciones Sanitarias,Ing. Rosa,3.0,0.0,0.0
+3,SAN-03,Aparatos sanitarios,Instalaciones Sanitarias,Ing. Rosa,3.0,0.0,0.0
+4,SAN-03,Aparatos sanitarios,Instalaciones Sanitarias,Ing. Rosa,3.0,0.0,0.0
+5,SAN-03,Aparatos sanitarios,Instalaciones Sanitarias,Ing. Rosa,3.0,0.0,0.0
+6,SAN-03,Aparatos sanitarios,Instalaciones Sanitarias,Ing. Rosa,3.0,0.0,0.0
+7,SAN-03,Aparatos sanitarios,Instalaciones Sanitarias,Ing. Rosa,3.0,0.0,0.0
+8,SAN-03,Aparatos sanitarios,Instalaciones Sanitarias,Ing. Rosa,3.0,0.0,0.0
+9,SAN-03,Aparatos sanitarios,Instalaciones Sanitarias,Ing. Rosa,3.0,0.0,0.2433
+10,SAN-03,Aparatos sanitarios,Instalaciones Sanitarias,Ing. Rosa,3.0,0.9733,0.9933
+11,SAN-03,Aparatos sanitarios,Instalaciones Sanitarias,Ing. Rosa,3.0,1.0533,1.0333
+12,SAN-03,Aparatos sanitarios,Instalaciones Sanitarias,Ing. Rosa,3.0,0.9733,0.73
+1,ELE-01,Canalizaciones eléctricas,Instalaciones Eléctricas,Ing. Miguel,4.0,0.0,0.0
+2,ELE-01,Canalizaciones eléctricas,Instalaciones Eléctricas,Ing. Miguel,4.0,0.0,0.0
+3,ELE-01,Canalizaciones eléctricas,Instalaciones Eléctricas,Ing. Miguel,4.0,0.0,0.0
+4,ELE-01,Canalizaciones eléctricas,Instalaciones Eléctricas,Ing. Miguel,4.0,0.0,0.2375
+5,ELE-01,Canalizaciones eléctricas,Instalaciones Eléctricas,Ing. Miguel,4.0,0.9499,0.975
+6,ELE-01,Canalizaciones eléctricas,Instalaciones Eléctricas,Ing. Miguel,4.0,1.0501,1.0501
+7,ELE-01,Canalizaciones eléctricas,Instalaciones Eléctricas,Ing. Miguel,4.0,1.0501,1.025
+8,ELE-01,Canalizaciones eléctricas,Instalaciones Eléctricas,Ing. Miguel,4.0,0.9499,0.7124
+9,ELE-01,Canalizaciones eléctricas,Instalaciones Eléctricas,Ing. Miguel,4.0,0.0,0.0
+10,ELE-01,Canalizaciones eléctricas,Instalaciones Eléctricas,Ing. Miguel,4.0,0.0,0.0
+11,ELE-01,Canalizaciones eléctricas,Instalaciones Eléctricas,Ing. Miguel,4.0,0.0,0.0
+12,ELE-01,Canalizaciones eléctricas,Instalaciones Eléctricas,Ing. Miguel,4.0,0.0,0.0
+1,ELE-02,Cableado eléctrico,Instalaciones Eléctricas,Ing. Miguel,4.0,0.0,0.0
+2,ELE-02,Cableado eléctrico,Instalaciones Eléctricas,Ing. Miguel,4.0,0.0,0.0
+3,ELE-02,Cableado eléctrico,Instalaciones Eléctricas,Ing. Miguel,4.0,0.0,0.0
+4,ELE-02,Cableado eléctrico,Instalaciones Eléctricas,Ing. Miguel,4.0,0.0,0.0
+5,ELE-02,Cableado eléctrico,Instalaciones Eléctricas,Ing. Miguel,4.0,0.0,0.0
+6,ELE-02,Cableado eléctrico,Instalaciones Eléctricas,Ing. Miguel,4.0,0.0,0.0
+7,ELE-02,Cableado eléctrico,Instalaciones Eléctricas,Ing. Miguel,4.0,0.9499,0.9499
+8,ELE-02,Cableado eléctrico,Instalaciones Eléctricas,Ing. Miguel,4.0,1.0501,1.0501
+9,ELE-02,Cableado eléctrico,Instalaciones Eléctricas,Ing. Miguel,4.0,1.0501,1.0501
+10,ELE-02,Cableado eléctrico,Instalaciones Eléctricas,Ing. Miguel,4.0,0.9499,0.9499
+11,ELE-02,Cableado eléctrico,Instalaciones Eléctricas,Ing. Miguel,4.0,0.0,0.0
+12,ELE-02,Cableado eléctrico,Instalaciones Eléctricas,Ing. Miguel,4.0,0.0,0.0
+1,ELE-03,Tableros eléctricos,Instalaciones Eléctricas,Ing. Miguel,3.0,0.0,0.0
+2,ELE-03,Tableros eléctricos,Instalaciones Eléctricas,Ing. Miguel,3.0,0.0,0.0
+3,ELE-03,Tableros eléctricos,Instalaciones Eléctricas,Ing. Miguel,3.0,0.0,0.0
+4,ELE-03,Tableros eléctricos,Instalaciones Eléctricas,Ing. Miguel,3.0,0.0,0.0
+5,ELE-03,Tableros eléctricos,Instalaciones Eléctricas,Ing. Miguel,3.0,0.0,0.0
+6,ELE-03,Tableros eléctricos,Instalaciones Eléctricas,Ing. Miguel,3.0,0.0,0.0
+7,ELE-03,Tableros eléctricos,Instalaciones Eléctricas,Ing. Miguel,3.0,0.0,0.0
+8,ELE-03,Tableros eléctricos,Instalaciones Eléctricas,Ing. Miguel,3.0,0.0,0.0
+9,ELE-03,Tableros eléctricos,Instalaciones Eléctricas,Ing. Miguel,3.0,0.9733,0.6813
+10,ELE-03,Tableros eléctricos,Instalaciones Eléctricas,Ing. Miguel,3.0,1.0533,1.0293
+11,ELE-03,Tableros eléctricos,Instalaciones Eléctricas,Ing. Miguel,3.0,0.9733,0.9973
+12,ELE-03,Tableros eléctricos,Instalaciones Eléctricas,Ing. Miguel,3.0,0.0,0.292
+1,ELE-04,Luminarias y tomacorrientes,Instalaciones Eléctricas,Ing. Miguel,4.0,0.0,0.0
+2,ELE-04,Luminarias y tomacorrientes,Instalaciones Eléctricas,Ing. Miguel,4.0,0.0,0.0
+3,ELE-04,Luminarias y tomacorrientes,Instalaciones Eléctricas,Ing. Miguel,4.0,0.0,0.0
+4,ELE-04,Luminarias y tomacorrientes,Instalaciones Eléctricas,Ing. Miguel,4.0,0.0,0.0
+5,ELE-04,Luminarias y tomacorrientes,Instalaciones Eléctricas,Ing. Miguel,4.0,0.0,0.0
+6,ELE-04,Luminarias y tomacorrientes,Instalaciones Eléctricas,Ing. Miguel,4.0,0.0,0.0
+7,ELE-04,Luminarias y tomacorrientes,Instalaciones Eléctricas,Ing. Miguel,4.0,0.0,0.0
+8,ELE-04,Luminarias y tomacorrientes,Instalaciones Eléctricas,Ing. Miguel,4.0,0.0,0.0
+9,ELE-04,Luminarias y tomacorrientes,Instalaciones Eléctricas,Ing. Miguel,4.0,0.0,0.0
+10,ELE-04,Luminarias y tomacorrientes,Instalaciones Eléctricas,Ing. Miguel,4.0,1.2978,1.2978
+11,ELE-04,Luminarias y tomacorrientes,Instalaciones Eléctricas,Ing. Miguel,4.0,1.4044,1.4044
+12,ELE-04,Luminarias y tomacorrientes,Instalaciones Eléctricas,Ing. Miguel,4.0,1.2978,1.2978
+1,ACA-01,Cielos rasos,Acabados,Arq. Luis,4.0,0.0,0.0
+2,ACA-01,Cielos rasos,Acabados,Arq. Luis,4.0,0.0,0.0
+3,ACA-01,Cielos rasos,Acabados,Arq. Luis,4.0,0.0,0.0
+4,ACA-01,Cielos rasos,Acabados,Arq. Luis,4.0,0.0,0.0
+5,ACA-01,Cielos rasos,Acabados,Arq. Luis,4.0,0.0,0.0
+6,ACA-01,Cielos rasos,Acabados,Arq. Luis,4.0,0.0,0.0
+7,ACA-01,Cielos rasos,Acabados,Arq. Luis,4.0,0.0,0.2375
+8,ACA-01,Cielos rasos,Acabados,Arq. Luis,4.0,0.9499,0.975
+9,ACA-01,Cielos rasos,Acabados,Arq. Luis,4.0,1.0501,1.0501
+10,ACA-01,Cielos rasos,Acabados,Arq. Luis,4.0,1.0501,1.025
+11,ACA-01,Cielos rasos,Acabados,Arq. Luis,4.0,0.9499,0.7124
+12,ACA-01,Cielos rasos,Acabados,Arq. Luis,4.0,0.0,0.0
+1,ACA-02,Pintura interior,Acabados,Arq. Luis,6.0,0.0,0.0
+2,ACA-02,Pintura interior,Acabados,Arq. Luis,6.0,0.0,0.0
+3,ACA-02,Pintura interior,Acabados,Arq. Luis,6.0,0.0,0.0
+4,ACA-02,Pintura interior,Acabados,Arq. Luis,6.0,0.0,0.0
+5,ACA-02,Pintura interior,Acabados,Arq. Luis,6.0,0.0,0.0
+6,ACA-02,Pintura interior,Acabados,Arq. Luis,6.0,0.0,0.0
+7,ACA-02,Pintura interior,Acabados,Arq. Luis,6.0,0.0,0.0
+8,ACA-02,Pintura interior,Acabados,Arq. Luis,6.0,0.0,0.0
+9,ACA-02,Pintura interior,Acabados,Arq. Luis,6.0,1.4249,0.9974
+10,ACA-02,Pintura interior,Acabados,Arq. Luis,6.0,1.5751,1.5301
+11,ACA-02,Pintura interior,Acabados,Arq. Luis,6.0,1.5751,1.5751
+12,ACA-02,Pintura interior,Acabados,Arq. Luis,6.0,1.4249,1.4699
+1,ACA-03,Carpintería de madera,Acabados,Ing. Carlos,5.0,0.0,0.0
+2,ACA-03,Carpintería de madera,Acabados,Ing. Carlos,5.0,0.0,0.0
+3,ACA-03,Carpintería de madera,Acabados,Ing. Carlos,5.0,0.0,0.0
+4,ACA-03,Carpintería de madera,Acabados,Ing. Carlos,5.0,0.0,0.0
+5,ACA-03,Carpintería de madera,Acabados,Ing. Carlos,5.0,0.0,0.0
+6,ACA-03,Carpintería de madera,Acabados,Ing. Carlos,5.0,0.0,0.0
+7,ACA-03,Carpintería de madera,Acabados,Ing. Carlos,5.0,0.0,0.0
+8,ACA-03,Carpintería de madera,Acabados,Ing. Carlos,5.0,0.0,0.0
+9,ACA-03,Carpintería de madera,Acabados,Ing. Carlos,5.0,1.1874,1.1874
+10,ACA-03,Carpintería de madera,Acabados,Ing. Carlos,5.0,1.3126,1.3126
+11,ACA-03,Carpintería de madera,Acabados,Ing. Carlos,5.0,1.3126,1.3126
+12,ACA-03,Carpintería de madera,Acabados,Ing. Carlos,5.0,1.1874,1.1874
+1,ACA-04,Limpieza y entrega final,Acabados,Ing. Carlos,5.0,0.0,0.0
+2,ACA-04,Limpieza y entrega final,Acabados,Ing. Carlos,5.0,0.0,0.0
+3,ACA-04,Limpieza y entrega final,Acabados,Ing. Carlos,5.0,0.0,0.0
+4,ACA-04,Limpieza y entrega final,Acabados,Ing. Carlos,5.0,0.0,0.0
+5,ACA-04,Limpieza y entrega final,Acabados,Ing. Carlos,5.0,0.0,0.0
+6,ACA-04,Limpieza y entrega final,Acabados,Ing. Carlos,5.0,0.0,0.0
+7,ACA-04,Limpieza y entrega final,Acabados,Ing. Carlos,5.0,0.0,0.0
+8,ACA-04,Limpieza y entrega final,Acabados,Ing. Carlos,5.0,0.0,0.0
+9,ACA-04,Limpieza y entrega final,Acabados,Ing. Carlos,5.0,0.0,0.0
+10,ACA-04,Limpieza y entrega final,Acabados,Ing. Carlos,5.0,0.0,0.0
+11,ACA-04,Limpieza y entrega final,Acabados,Ing. Carlos,5.0,2.5,1.75
+12,ACA-04,Limpieza y entrega final,Acabados,Ing. Carlos,5.0,2.5,2.5
